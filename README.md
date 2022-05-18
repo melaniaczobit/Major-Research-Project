@@ -1,0 +1,3 @@
+# Major-Research-Project
+
+Fitness trackers are a wearable technology item and activity tracker that monitors health metrics such as steps per day, heart rate and sleep patterns. Due to this capability, it enables one to track these metrics over a period of time and has the potential to unveil other health indicators. Sleep duration and quality of sleep or lack thereof, have been linked to health conditions such as type 2 diabetes and heart disease. Using the data available, the following models will be used to predict if activity during the day affects sleep quality: multiple logistic regression, random forest, and LSTM. This project will use the Fitbit activity and sleep dataset
